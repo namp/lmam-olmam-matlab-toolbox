@@ -5,7 +5,7 @@
 % since most training tasks can be learned with a single hidden layer
 %	
 % Nicholas Ampazis 2002
-% email: abazis@iit.demokritos.gr
+% email: n.ampazis@fme.aegean.gr
 % $Revision: 1.0
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

@@ -31,7 +31,7 @@ function [w1,b1,w2,b2,i,tr] = tlmam2(w1,b1,f1,w2,b2,f2,p,t,tp)
 % Copyright (c) 1992-97 by The MathWorks, Inc.)
 %
 % Nicholas Ampazis 2002
-% email: abazis@iit.demokritos.gr
+% email: n.ampazis@fme.aegean.gr
 % $Revision: 1.0
  
 if nargin < 8,error('Not enough arguments.'),end

@@ -3,7 +3,7 @@
 % Trains a neural network with no hidden units on the Sonar Data benchmark 
 %	
 % Nicholas Ampazis 2002
-% email: abazis@iit.demokritos.gr
+% email: n.ampazis@fme.aegean.gr
 % $Revision: 1.0
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

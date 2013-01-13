@@ -36,7 +36,7 @@ function [a,b,c,d,e,f,g,h] = train_olmam(i,j,k,l,m,n,o,p,q,r,s,t)
 %	Missing parameters and NaN's are replaced with defaults.
 %	
 % Nicholas Ampazis 2002
-% email: abazis@iit.demokritos.gr
+% email: n.ampazis@fme.aegean.gr
 % $Revision: 1.0
 
 if all([5 6 8 9 11 12] ~= nargin),error('Wrong number of input arguments'),end

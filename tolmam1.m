@@ -31,7 +31,7 @@ function [w1,b1,i,tr] = tolmam1(w1,b1,f1,p,t,tp)
 % Copyright (c) 1992-97 by The MathWorks, Inc.)
 %
 % Nicholas Ampazis 2002
-% email: abazis@iit.demokritos.gr
+% email: n.ampazis@fme.aegean.gr
 % $Revision: 1.0
 
  
